@@ -1,7 +1,7 @@
 
 <división identificación="encabezamiento" alinear="centro">
     <h1 align="center">Hola 👋, soy José
-    <img src="[https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fordenador&psig=AOvVaw3zoZD0oE63zpfJQMsI_T0l&ust=1720699965157000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjGm4S5nIcDFQAAAAAdAAAAABAE)" ancho="200" />
+    <img src="https://giphy.com/gifs/Lowi-gato-lowi-ordenador-hENDkVRxKsctCpuAun" ancho="200" />
     <h3 align="center">Un amante de la informática y el desarrollo</h3>
 </división>
 
