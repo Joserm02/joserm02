@@ -7,7 +7,7 @@
 
 <división identificación="insignias" alinear="centro">
     <a href="https://www.linkedin.com/es/gonzalo-rando-serna-876a10249/">
-        <img src="https://img.shields.io/twitter/url?color=azul&label=Gonzalo%20linkedin&logo=linkedin&logoColor=azul&style=para-la-insignia&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-rando-serna-876a10249%2F" alt="Insignia de Linkedin"/>
+        <img src="https://img.shields.io/twitter/url?color=azul&label=Gonzalo%20linkedin&logo=linkedin&logoColor=azul&style=para-la-insignia&url=[https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-rando-serna-876a10249%2F](https://www.linkedin.com/in/jose-rodriguez-4baaa8299)" alt="Insignia de Linkedin"/>
     </a>
 </división>
 
