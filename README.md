@@ -52,5 +52,9 @@
 - 🌐 Servidores AWS
 - 🧱 CSS,HTML y Boostrap
 - 🛠️ Hardware
+- 🍃 Mongo DB
+- 🍃 Mongo Atlas
+- 🏺 Oracle
+
   
 
