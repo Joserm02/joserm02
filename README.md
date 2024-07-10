@@ -25,7 +25,9 @@
 
 
 </div>
+
 ---
+
 ###👨‍💻 Sobre mí:
 
 -Me gusta aprender nuevas tecnologías para poder implementarla sobretodo en backend.
