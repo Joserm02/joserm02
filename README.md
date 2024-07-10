@@ -13,7 +13,7 @@
 
 
 
-<
+
 <div align="center">
     <a href="https://www.linkedin.com/in/jose-rodriguez-4baaa8299/">
         
@@ -23,7 +23,7 @@
    
 </a>
 
-<
+
 </div>
 
 ## 💻 Tecnologías
