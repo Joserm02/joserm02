@@ -43,14 +43,14 @@
 - 🐬 MySQL
 - ☁️ Nextcloud
 - 🐳 Docker
-- Linux
-- Windows
-- Outlook
-- Kaspersky
-- Wordpress
-- Vpn
-- Servidores AWS
-- CSS,HTML y Boostrap
-- Hardware
+- 🐧 Linux
+- 🖥Windows
+- 📧 Outlook
+- 🔑 Kaspersky
+- 🌐Wordpress
+- 🌐 Vpn
+- 🌐 Servidores AWS
+- 🧱 CSS,HTML y Boostrap
+- 🛠️ Hardware
   
 
