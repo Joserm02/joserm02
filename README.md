@@ -28,20 +28,26 @@
 
 ###👨‍💻 Sobre mí:
 
--Soy un entusiasta de la informática
+-Me gusta aprender nuevas tecnologías para poder implementarla sobretodo en backend.
 
--Desarrollo de pequeños proyectos de interés personal usando Python o JavaScript
+-He desarrolado algún otro proyecto con Javascript,PHP y MYSQL, de forma personal.
 
-arreglar
--Me gusta investigar, aprender nuevas tecnologías y ponerlas a prueba
+-También estoy introduciendome en otros campos como la seguridad.
 
-
-
--Puedes contactarme engonzalorando03@gmail.com
 ## 💻 Tecnologías
 - 🌐 JavaScript
 - 🐘 PHP
 - 🐬 MySQL
 - ☁️ Nextcloud
 - 🐳 Docker
+- Linux
+- Windows
+- Outlook
+- Kaspersky
+- Wordpress
+- Vpn
+- Servidores AWS
+- CSS,HTML y Boostrap
+- Hardware
+  
 
