@@ -26,6 +26,18 @@
 
 </div>
 
+###👨‍💻 Sobre mí:
+
+-Soy un entusiasta de la informática
+
+-Desarrollo de pequeños proyectos de interés personal usando Python o JavaScript
+
+arreglar
+-Me gusta investigar, aprender nuevas tecnologías y ponerlas a prueba
+
+
+
+-Puedes contactarme engonzalorando03@gmail.com
 ## 💻 Tecnologías
 - 🌐 JavaScript
 - 🐘 PHP
